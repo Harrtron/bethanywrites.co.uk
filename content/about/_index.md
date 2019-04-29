@@ -1,21 +1,28 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
-title = "About me"
+title = "About Bethany"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+### Hi, I'm Bethany and I am a Bristol-based digital marketer and blogger.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+I started out in journalism, earning a 2:1 BA (Hons) Degree at the University of Gloucestershire. After moving away from my Cornwall hometown, I thrived at my first position as a reporter at the Gloucestershire Gazette.
 
-![This is me][1]
+I then moved on to explore the exciting PR world at B2B PR agency Berkeley Global as an Account Executive, before getting my teeth into a partly alien industry. I joined global holiday rentals company Travelopo as a copywriter and progressed to the company's Digital Marketing Editor role. I am now the Marketing Officer at Jessie May, and incredible children's hospice at home charity based in Kingswood.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+As a result of my careers in journalism and PR, I've had the unique experience of being at both ends of the press release journey. I've been the Account Executive, writing and proof-reading the press release, sourcing the relevant journalists to pitch it to and selling-in. I've monitored for coverage - gained coverage - and then reported back with the results in client meetings.
 
-#### Education
+I've also been the journo. I've picked up the phone, opened the email and questioned the document's relevancy and topicality. I've probed the PR for additional informaton and quotes. I've edited, rewritten and stylised copy for print and online. I've then shared the story across the company's social media channels, stirring up conversation and debate.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+While I love the fast-paced marketing industry, I am now also a volunteer journalist at the St George & Redfield Voice. 
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
+I've loved learning, growing and excelling across the marketing, PR, journalism and communications industries. Before my full-time positions, I fought for an array of invaluable work experience placements, including stints at ITV West Country, Plymouth and ITV West & West Country, Bristol, The Herald, Plymouth and WildCard PR, Truro.
+
+Interested in working with me? Check out my portfolio of work here! If you'd like further information about my career and experience, email bethanywash@hotmail.com.
+
+#### And off the clock?
+
+In my spare time, I am a flautist in a Bristol flute choir, (semi-frequent) gym-goer, Cecelia Ahern fan - avid book reader in general, prosecco-drinker, Twitter-addict, obsessive cat-mum and musical theatre enthusiast! I'm always out and about in Bristol but can be found flitting between this magnificent city and Cornwall, where I grew up, and the majority of my family reside.
+
+And, **of course**, I'm a passionate Hufflepuff.
 
 [1]: /img/about.jpg
