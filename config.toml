@@ -14,8 +14,7 @@ googleAnalytics = ""
   description = "Bethany Wash Portfolio"
   copyright = "&copy;2019 Bethany Wash"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "Hi, I'm Bethany and I am a Bristol-based digital marketer and blogger."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
